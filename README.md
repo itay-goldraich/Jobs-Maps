@@ -40,9 +40,7 @@ We've implemented a Python-based web scraper to collect job data from LinkedIn. 
 
 To get started with Jobs-Maps, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/itay-goldraich/Jobs-Maps.git`
-2. Navigate to the project directory: `cd Jobs-Maps`
-3. Install dependencies: `pip install -r requirements.txt`
+TODO
 
 ## Usage
 
