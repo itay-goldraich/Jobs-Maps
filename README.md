@@ -46,9 +46,7 @@ To get started with Jobs-Maps, follow these steps:
 
 ## Usage
 
-1. Run the web scraper to gather job data: `python scraper.py`
-2. Start the web application: `python app.py`
-3. Access the app in your web browser: `http://localhost:8000`
+TODO
 
 Discover job listings on the map, search for positions, and visualize your job hunt in a whole new way.
 
